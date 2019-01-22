@@ -6,7 +6,7 @@
 ##### src/utils/pizzas.js is meant to act as an api as if it is calling the "database"
 ##### Because the api functions in pizzasApi.js is meant to act as an api, they are called in componentDidMount, as if they were asynchronous scalls rather than directly setting them in the constructor.
 
-## `npm start` to run 
+## `npm i` then `npm start` to run 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
