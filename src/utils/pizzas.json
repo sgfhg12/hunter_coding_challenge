@@ -1,0 +1,27 @@
+{
+    "cheese-pizza": {
+        "name": "Cheese Pizza",
+        "img": "https://thumbs.dreamstime.com/z/cheese-pizza-white-background-79167.jpg",
+        "description": "Plain old cheese pizza"
+    },
+    "pepperoni-pizza": {
+        "name": "Pepperoni Pizza",
+        "img": "https://assets.kraftfoods.com/recipe_images/opendeploy/204924-1bd98c79243057e7a8da5afe3ba5773cba4ce089_642x428.jpg",
+        "description": "Whip up a family favourite with our Pepperoni Pizza recipe! This 17-minute pepperoni pizza recipe uses ready-to-use pre-baked pizza crust & 3 ingredients. "
+    }, 
+    "grilled-vegetable-pizza": {
+        "name": " Grilled Vegetable Pizza",
+        "img": "https://www.tasteofhome.com/wp-content/uploads/2018/02/Grilled-Veggie-Pizza_EXPS_LSBZ18_48960_D01_18_6b-696x696.jpg",
+        "description": "I came up with this recipe one summer as a way to use up vegetables from our garden. Grilling the veggies first brings out their sizzling flavors. Try it with a sprinkling of olives or pine nuts before adding the cheese. —Susan Marshall, Colorado Springs, Colorado "
+    },
+    "hawaiian-pizza": {
+        "name": "Hawaiian Pizza",
+        "img": "https://cdn-us-ec.yottaa.net/55b635db0b5344273c002031/d1fd69005c1501336a81123dfe2baf36.yottaa.net/v~4b.487/1374-3-large.jpg?yocs=2u_&yoloc=us",
+        "description": "Did you know Hawaiian pizza is the most popular pizza in Australia, accounting for a full 15% of all pizza sales? And it's a popular choice in this country, as well; though far from ousting pepperoni from the top spot, this ham-pineapple concoction has been making steady inroads, particularly among kids."
+    },
+    "double-mushroom-pizza": {
+        "name": "Double Mushroom Pizza",
+        "img": "https://cdn-image.myrecipes.com/sites/default/files/styles/medium_2x/public/image/recipes/oh/13/oh-double-mushroom-pizza-x.jpg?itok&#x3D;i-soTLG6",
+        "description": "Cremini and portobellos are actually the same mushroom; portobellos are the mature form. Marry them with a whole-wheat crust for a pizza with earthy, nutty flavor."
+    }
+}
